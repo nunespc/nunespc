@@ -1,6 +1,8 @@
  ***<h1 align="center"> Olá Devs 👋, Me chamo Wanderson Nunes !</h1>***
   ***<h3 align="center"> Bem vindo ao meu perfil GitHub 👋</h3>***
     ***<h3 align="center">Sou Desenvolvedor Java</h3>***
+    
+<img src="https://komarev.com/ghpvc/?username=nunespc&label=Profile%20views&color=0e75b6&style=flat" alt="nunespc" />
 
 #### Ferramentas e Tecnologias
 
